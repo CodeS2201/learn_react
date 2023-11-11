@@ -1,6 +1,10 @@
+import Test from './testfile'
+
 function App() {
   return (
-    <h1>Learn React! | CodeS2201</h1>
+    <>
+      <Test />
+    </>
   );
 }
 
