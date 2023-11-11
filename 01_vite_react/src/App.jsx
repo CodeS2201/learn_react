@@ -1,6 +1,11 @@
+import Test from './testfile'
+
 function App() {
   return (
-   <h1>Learn React With Vite! | CodeS2201</h1>
+    <>
+      <Test/>
+      <h1>Hello to people from github!</h1>
+    </>
   )
 }
 
