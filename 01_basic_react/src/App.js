@@ -1,4 +1,4 @@
-import Test from './testfile'
+import Test from './Testfile'
 
 function App() {
   return (
